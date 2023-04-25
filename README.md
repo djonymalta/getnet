@@ -1,5 +1,8 @@
 Sejam Bem vindos ao GetNet Job Interview Project
 ==================
+<p align="center">
+ <img src="https://site.getnet.com.br/wp-content/uploads/2021/08/logo-getnet.png" alt=""  width="400" height="90" /> 
+</p>
 O que será necessário ter:
 
 * IDE  - Utilizado | [Intellij][0]
@@ -43,7 +46,9 @@ Será informado um Report no console de sua IDE, com o total de testes realizado
 
 Testes realizados
 ==================
-
+<p align="center">
+ <img src="https://i.postimg.cc/43sgfdxS/Captura-de-Tela-2023-04-25-a-s-11-52-35.png" alt=""  width="1024" height="800" /> 
+</p>
 
 ```
 1 - Realizado cobertura de Testes em Rest-Assured da API
@@ -55,6 +60,9 @@ Testes realizados
 ```
 3 - Projeto Realizado com POJO (Plain Old Java Object) 
 ```
+
+Testes realizados
+==================
 
 [0]: https://www.jetbrains.com/pt-br/idea/
 [1]: https://oracle.com/java/technologies/javase-downloads.html
