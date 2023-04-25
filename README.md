@@ -61,7 +61,7 @@ Testes realizados
 Github Actions
 ==================
 <p align="center">
- <img src="https://i.ibb.co/kB0gkWT/Captura-de-Tela-2023-04-25-a-s-11-52-35.png" alt="GetNet"  width="1024" height="800" /> 
+ <img src="https://i.ibb.co/3N92X6S/Captura-de-Tela-2023-04-25-a-s-12-09-26.png" alt="GetNet"  width="1024" height="800" /> 
 </p>
 
 
