@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc291e42-c485-466b-92b4-3a266bca5af4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/getnet/entity/ClientHttp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/getnet/entity/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/getnet/entity/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JSONSchemaValidatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SimulacaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/schema-example.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/getnet/entity/ClientHttp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/getnet/entity/ClientHttp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JSONSchemaValidatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JSONSchemaValidatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +42,62 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "onboarding.tips.debug.path": "/Users/djonymalta/Documents/Quality Assurance/getnet-jobinterview/src/main/java/org/example/Main.java"
+    "onboarding.tips.debug.path": "/Users/djonymalta/Documents/Quality Assurance/getnet-jobinterview/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.SimulacaoTest.validaStatusCodeNovoUsuario">
+    <configuration name="JSONSchemaValidatorTest.listaSimulacoesSchemaValidator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="getnet-jobinterview" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JSONSchemaValidatorTest" />
+      <option name="METHOD_NAME" value="listaSimulacoesSchemaValidator" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JSONSchemaValidatorTest.validaCriacaoDeUmNovoUsuario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="getnet-jobinterview" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JSONSchemaValidatorTest" />
+      <option name="METHOD_NAME" value="validaCriacaoDeUmNovoUsuario" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JSONSchemaValidatorTest.validaSchemaUsuarioCriado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="getnet-jobinterview" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JSONSchemaValidatorTest" />
+      <option name="METHOD_NAME" value="validaSchemaUsuarioCriado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulacaoTest.validaStatusCodeNovoUsuario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="getnet-jobinterview" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SimulacaoTest" />
+      <option name="METHOD_NAME" value="validaStatusCodeNovoUsuario" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SimulacaoTest.validaStatusCodeNovoUsuario" />
+        <item itemvalue="JUnit.JSONSchemaValidatorTest.validaCriacaoDeUmNovoUsuario" />
+        <item itemvalue="JUnit.JSONSchemaValidatorTest.listaSimulacoesSchemaValidator" />
+        <item itemvalue="JUnit.JSONSchemaValidatorTest.validaSchemaUsuarioCriado" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
