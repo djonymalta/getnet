@@ -13,7 +13,7 @@ public class SimulacaoTest {
     // SIMULAÇÕES
     @Test
     @DisplayName("GET: Valida status code de uma simulação com dados requeridos.")
-    void validaSimulacaoComCPFNaoCadastrado() {
+    void validaSimulacaoAoCriarUmNovoUsuario() {
 
         RestAssured.given().contentType(ContentType.JSON).body(pessoa).when().post(baseUrl.urlAPICreateUser())
                 .then().log().all().statusCode(201);
