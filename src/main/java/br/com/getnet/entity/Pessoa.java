@@ -1,9 +1,12 @@
 package br.com.getnet.entity;
 
+import jakarta.validation.constraints.NotBlank;
+
 public class Pessoa {
 
+    @NotBlank
     private String name;
-
+    @NotBlank
     private String job;
 
     public Pessoa(){
