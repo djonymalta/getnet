@@ -37,9 +37,9 @@ public class Pessoa {
 
     @Override
     public String toString() {
-        return "Pessoa{" +
-                "name='" + name + '\'' +
-                ", job='" + job + '\'' +
-                '}';
+        return "{\n" +
+                "    \"name\": \"Djony \",\n" +
+                "    \"job\": \"Quality Assurance Analyst\"\n" +
+                "}";
     }
 }
