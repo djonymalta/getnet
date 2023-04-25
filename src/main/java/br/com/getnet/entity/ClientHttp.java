@@ -6,13 +6,8 @@ public class ClientHttp {
 
     }
 
-    public String urlAPI(){
-        String baseURL = ": https://reqres.in/api/";
+    public String urlAPICreateUser(){
+        String baseURL = "https://reqres.in/api/users";
         return baseURL;
-    }
-
-    public String urlPost (){
-        String createUsers = "/users";
-        return createUsers;
     }
 }
