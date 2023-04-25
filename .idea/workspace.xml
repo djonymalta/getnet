@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="cc291e42-c485-466b-92b4-3a266bca5af4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/getnet/entity/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/getnet/entity/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JSONSchemaValidatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JSONSchemaValidatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SimulacaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SimulacaoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,17 +46,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.JSONSchemaValidatorTest.validaSChemaAoCriarNovoUsuario">
-    <configuration name="JSONSchemaValidatorTest.listaSimulacoesSchemaValidator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="getnet-jobinterview" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="JSONSchemaValidatorTest" />
-      <option name="METHOD_NAME" value="listaSimulacoesSchemaValidator" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.SimulacaoTest.validaSimulacaoAoCriarUmNovoUsuario">
     <configuration name="JSONSchemaValidatorTest.validaCriacaoDeUmNovoUsuario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="getnet-jobinterview" />
       <option name="PACKAGE_NAME" value="" />
@@ -68,6 +62,16 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="JSONSchemaValidatorTest" />
       <option name="METHOD_NAME" value="validaSChemaAoCriarNovoUsuario" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulacaoTest.validaSimulacaoAoCriarUmNovoUsuario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="getnet-jobinterview" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SimulacaoTest" />
+      <option name="METHOD_NAME" value="validaSimulacaoAoCriarUmNovoUsuario" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SimulacaoTest.validaSimulacaoAoCriarUmNovoUsuario" />
         <item itemvalue="JUnit.JSONSchemaValidatorTest.validaSChemaAoCriarNovoUsuario" />
         <item itemvalue="JUnit.SimulacaoTest.validaSimulacaoComCPFNaoCadastrado" />
         <item itemvalue="JUnit.SimulacaoTest.validaStatusCodeNovoUsuario" />
         <item itemvalue="JUnit.JSONSchemaValidatorTest.validaCriacaoDeUmNovoUsuario" />
-        <item itemvalue="JUnit.JSONSchemaValidatorTest.listaSimulacoesSchemaValidator" />
       </list>
     </recent_temporary>
   </component>
