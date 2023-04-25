@@ -8,6 +8,8 @@ import org.junit.jupiter.api.Test;
 public class SimulacaoTest {
 
     ClientHttp baseUrl = new ClientHttp();
+
+    // Validar com @NotBlank para garantir que os campos não estejam vazios (Próximo PR)
     Pessoa pessoa = new Pessoa(" ", "Arquiteto");
 
     // SIMULAÇÕES
